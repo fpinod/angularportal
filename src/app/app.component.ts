@@ -14,6 +14,7 @@ export class AppComponent implements OnInit {
   listaDocumentoSeleccionado: Documento[];
   cols: any[];
 
+
   constructor(
     private documentoService: DocumentoService
   ) { }
