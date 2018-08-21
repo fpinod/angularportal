@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "data": {
+        "numero": null,
+        "cuenta": "Directorio",
+        "emision": null,
+        "vencimineto": null,
+        "total": 793038,
+        "pendiente": 190038
+      },
+      "children": [
+        {
+          "data": {
+            "numero": 61399001,
+            "cuenta": "Directorio",
+            "emision": "13/05/2018",
+            "vencimineto": "15/05/2018",
+            "total": 793038,
+            "pendiente": 190038
+          }
+        },
+        {
+          "data": {
+            "numero": 61399002,
+            "cuenta": "Directorio",
+            "emision": "13/05/2018",
+            "vencimineto": "15/05/2018",
+            "total": 793038,
+            "pendiente": 190038
+          }
+        },
+        {
+          "data": {
+            "numero": 61399003,
+            "cuenta": "Directorio",
+            "emision": "13/05/2018",
+            "vencimineto": "15/05/2018",
+            "total": 793038,
+            "pendiente": 190038
+          }
+        },
+        {
+          "data": {
+            "numero": 61399004,
+            "cuenta": "Directorio",
+            "emision": "13/05/2018",
+            "vencimineto": "15/05/2018",
+            "total": 793038,
+            "pendiente": 190038
+          }
+        }
+      ]
+    },
+    {
+      "data": {
+        "numero": 61398380,
+        "cuenta": "User Experience",
+        "emision": "10/05/2018",
+        "vencimineto": "10/05/2018",
+        "total": 1421032,
+        "pendiente": 0
+      }
+    },
+    {
+      "data": {
+        "numero": 61398373,
+        "cuenta": "Marketing",
+        "emision": "10/03/2018",
+        "vencimineto": "01/05/2018",
+        "total": 700000,
+        "pendiente": 700000
+      }
+    },
+    {
+      "data": {
+        "numero": 61398398,
+        "cuenta": "Gerentes",
+        "emision": "10/03/2018",
+        "vencimineto": "30/03/2018",
+        "total": 700000,
+        "pendiente": 0
+      }
+    }
+  ]
+}
